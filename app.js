@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 let amigos = [];
 
 function adicionarAmigo() {
